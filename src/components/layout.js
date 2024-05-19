@@ -3,6 +3,7 @@ import Cookies from 'js-cookie';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 import LogoutButton from './logoutButton';
+import '../app/globals.css';
 
 const Layout = ({ children }) => {
   const [user, setUser] = useState(null);

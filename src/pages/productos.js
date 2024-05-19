@@ -1,4 +1,3 @@
-import '../app/globals.css';
 import Layout from '../components/layout';
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
