@@ -52,7 +52,7 @@ const Tiendas = () => {
   return (
     <Layout>
       <div className="min-h-screen bg-gray-100 p-8">
-        <h1 className="text-4xl font-bold text-center mb-8">Puntajes 'Semillas de Colombia' </h1>
+        <h1 className="text-4xl font-bold text-center mb-8">Puntajes Semillas de Colombia </h1>
         <table className="min-w-full bg-white shadow-md rounded my-6">
           <thead>
             <tr className=' bg-gray-200'>
